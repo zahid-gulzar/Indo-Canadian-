@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bus main body / luxury coach shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C34,23 37,21 41,21 L67,21 C71,21 74,23 74,26 L75,69 C75,72 73,74 70,74 L68,74 L68,78 C68,80 65,81 63,81 L61,81 C59,81 58,80 58,78 L58,74 L50,74 L50,78 C50,80 49,81 47,81 L45,81 C43,81 40,80 40,78 L40,74 L38,74 C35,74 33,72 33,69 Z" />
+
+    <!-- Windshield glass -->
+    <path
+        android:fillColor="#0E233E"
+        android:pathData="M37,27 L71,27 C72,27 73,28 72.8,29.5 L71.5,47 C71.3,48 70.5,49 69.5,49 L38.5,49 C37.5,49 36.7,48 36.5,47 L35.2,29.5 C35,28 36,27 37,27 Z" />
+
+    <!-- Upper destination matrix display (CRS Gold) -->
+    <path
+        android:fillColor="#F5BA42"
+        android:pathData="M43,23.5 L65,23.5 C65.8,23.5 66.5,24 66.5,24.8 L66.5,25.7 C66.5,26.5 65.8,27 65,27 L43,27 C42.2,27 41.5,26.5 41.5,25.7 L41.5,24.8 C41.5,24 42.2,23.5 43,23.5 Z" />
+
+    <!-- Left side mirror -->
+    <path
+        android:fillColor="#F5BA42"
+        android:pathData="M32.5,33 L30.5,33 C29.5,33 29,34 29,35 L29,42 C29,43 29.5,44 30.5,44 L32.5,44 Z" />
+
+    <!-- Right side mirror -->
+    <path
+        android:fillColor="#F5BA42"
+        android:pathData="M75.5,33 L77.5,33 C78.5,33 79,34 79,35 L79,42 C79,43 78.5,44 77.5,44 L75.5,44 Z" />
+
+    <!-- Middle chrome bumper / grille bar -->
+    <path
+        android:fillColor="#F5BA42"
+        android:pathData="M40,59 L68,59 C69.1,59 70,59.9 70,61 C70,62.1 69.1,63 68,63 L40,63 C38.9,63 38,62.1 38,61 C38,59.9 38.9,59 40,59 Z" />
+
+    <!-- Left Headlight -->
+    <path
+        android:fillColor="#F5BA42"
+        android:pathData="M37.5,53 C38.9,53 40,54.1 40,55.5 C40,56.9 38.9,58 37.5,58 C36.1,58 35,56.9 35,55.5 C35,54.1 36.1,53 37.5,53 Z" />
+
+    <!-- Right Headlight -->
+    <path
+        android:fillColor="#F5BA42"
+        android:pathData="M70.5,53 C71.9,53 73,54.1 73,55.5 C73,56.9 71.9,58 70.5,58 C69.1,58 68,56.9 68,55.5 C68,54.1 69.1,53 70.5,53 Z" />
+
+    <!-- Fleet / Highway speed lines under bus -->
+    <path
+        android:fillColor="#F5BA42"
+        android:pathData="M27,86 L81,86 C82,86 82.5,87 81.5,87.8 L77,91 L31,91 L26.5,87.8 C25.5,87 26,86 27,86 Z" />
+</vector>

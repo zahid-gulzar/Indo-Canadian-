@@ -1,0 +1,6 @@
+{
+  "name": "Indo Canadian Tpt",
+  "description": "Real-time duty attendance, route tracking, alert broadcast, reports and CRS operations management for Indo Canadian Transport Co.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
